@@ -1,3 +1,3 @@
-# Booking_App
+# Krayon
 
-## An application that will enable users book hotels and travel reservations 
+## An application that will enable business owners and investors, collaborate, negotiate and make good profits from partnerships
