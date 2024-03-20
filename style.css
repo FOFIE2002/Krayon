@@ -255,7 +255,7 @@ header {
 .products-container .box .price span{
     color: var(--text-color);
 }
-.products-container .box .bx-cart-alt{
+.products-container .box .bx-message{
     position: absolute;
     right: 0;
     bottom: 0;
@@ -264,7 +264,7 @@ header {
     font-size: 20px;
     border-radius: 0.5rem 0 0.5rem 0;
 }
-.products-container .box .bx-cart-alt:hover{
+.products-container .box .bx-message:hover{
     background: var(--orange-color);
     transition: 0.2s all linear;
 }
